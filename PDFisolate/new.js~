@@ -1,0 +1,3 @@
+chrome.downloads.onDeterminingFilename.addListener(function(item, suggest) {
+suggest({filename: "mysubdirectory/" + item.filename});
+});

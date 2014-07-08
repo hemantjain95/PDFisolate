@@ -1,0 +1,7 @@
+INSTALL:
+1.Download this folder on your system.
+2.Go to your google chrome and click settings.
+3.In the extension tab click on developer mode.
+4.You will see a button named Load Unpacked extension.
+5.Click on the button and give the path of the inside folder PDFisolate.
+6.enable your extension and its ready to use.
